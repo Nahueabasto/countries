@@ -1,0 +1,127 @@
+
+body {
+  margin: 0;
+}
+
+.home{
+  background-image: url('../Fotos/sw.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+
+.cards-wrapper {
+    max-width: 1200px; /* ajusta este valor al ancho deseado */
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    width: 200px;
+  }
+  
+  .card-container img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .card-container h3 {
+    margin: 0;
+    font-size: 20px;
+    text-align: center;
+  }
+
+
+  .card-container p {
+    margin: 5px 0;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+  .content-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+  }
+  
+  .first-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  
+  
+  .button {
+    margin-right: 20px;
+  }
+  
+  .link {
+    margin-right: 20px;
+    text-decoration: none;
+  }
+  
+  .searchbar {
+    margin-right: 20px;
+    
+  }
+  
+  .bottom-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .selects {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  select {
+    margin-right: 20px;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+  
+

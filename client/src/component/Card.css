@@ -1,0 +1,14 @@
+
+.card-container h2 {
+    color: rgb(221, 221, 233);
+    font-size: 24px;
+  }
+  
+  .card-container .card-continent {
+    color: rgb(139, 150, 139);
+    font-size: 18px;
+  }
+  
+  .card-link {
+    text-decoration: none;
+  }

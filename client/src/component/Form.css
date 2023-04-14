@@ -1,0 +1,62 @@
+.backgroundForm{
+  background-image: url('../Fotos/fondoazul.png');
+  padding: 10% 1% 14% 1%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  background-size: cover; 
+  background-position: center;
+  background-attachment:fixed;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+}
+
+ 
+.form-container {
+  position: fixed; /* fija el elemento */
+  top: 0; /* establece la posición en la parte superior */
+  left: 0; /* establece la posición en el lado izquierdo */
+  width: 100%; /* establece el ancho del elemento en el 100% del contenedor */
+  padding: 20px;
+}
+
+.actividad {
+  color: rgb(221, 221, 233);
+  font-size: 40px;
+}
+
+.name {
+  color: rgb(139, 150, 139);
+  font-size: 22px;
+}
+
+.difficulty {
+  color: rgb(139, 150, 139);
+  font-size: 22px;
+}
+
+.duration {
+  color: rgb(139, 150, 139);
+  font-size: 22px;
+}
+
+.season {
+  color: rgb(139, 150, 139);
+  font-size: 22px;
+}
+
+.countries {
+  color: rgb(139, 150, 139);
+  font-size: 22px;
+}
+
+
+
+
+
+  
+  
+  
+  
+  
+  
